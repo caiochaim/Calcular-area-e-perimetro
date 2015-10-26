@@ -1,0 +1,6 @@
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\bin\Debug\CalcularFormas.exe.config
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\bin\Debug\CalcularFormas.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\bin\Debug\CalcularFormas.pdb
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\obj\Debug\CalcularFormas.csprojResolveAssemblyReference.cache
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\obj\Debug\CalcularFormas.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\CalcularFormas\obj\Debug\CalcularFormas.pdb
